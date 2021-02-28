@@ -17,9 +17,11 @@ Repository
 ```
 # Usage
 
-1. Change directory to /src/main
-2. ```python test.py```
-3. Result stored as result_submission_out.csv
+1. Download mlat_results_test.csv from ''' https://drive.google.com/file/d/1hsQ-ZfrvDHcs9fo1EesJ7xmj7mKGJwrp/view?usp=sharing '''
+and store it in /data/folder
+2. Change directory to /src/main
+3. ```python test.py```
+4. Result stored as result_submission_out.csv
 
 # Method Highlights
 1. Models clock drifts of sensors from training data
