@@ -1,4 +1,4 @@
-# Aicraft Localization Competetion : Round 2
+# Aircraft Localization Competetion : Round 2
 
 # Filestructure
 ```
